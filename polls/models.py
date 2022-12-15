@@ -1,3 +1,7 @@
+# INF601 - Advanced Programming in Python
+# Colton Ensz
+# Mini Project 4
+
 from django.db import models
 from django.contrib import admin
 import datetime
